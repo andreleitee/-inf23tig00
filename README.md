@@ -10,7 +10,6 @@ Our website is about sports it has utliza html,css and javaScript
 * **Source code** is in the [src folder](src/).
 * Report chapters are in [doc folder](doc/).
 
-## Gallery 1
 
 
 ## Technologies
