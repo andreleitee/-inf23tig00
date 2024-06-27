@@ -1,6 +1,6 @@
 # Tecnologias Internet  
 
-Repository to host the project developed for Tecnologias Internet, a fisrt year subject at Umaia. Developed by Group 00 : [@Daniel Casal](https://github.com/casalsss), [@Andre Leite](https://github.com/andreleitee).
+Repository to host the project developed for Tecnologias Internet, a fisrt year subject at Umaia. Developed by Group 00 : [@Daniel Casal, a042334](https://github.com/casalsss), [@Andre Leite, a044402](https://github.com/andreleitee).
 
 ## Short theme description
 Our website is about sports it has html,css and javaScript
